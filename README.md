@@ -1,2 +1,7 @@
-# KonstantinovU_reflectometry
-Data for paper "Sensitive detection of the Rydberg transition in trapped electrons on liquid helium using radio-frequency reflectometry""
+### Research data
+This repository contains research data for a paper "Sensitive detection of the Rydberg transition in trapped electrons on liquid helium using
+radio-frequency reflectometry" by Jui-Yin Lin, Tomoyuki Tani, Mikhail Belianchikov and Denis Konstantinov.
+
+#### Abstract
+
+Radio-frequency reflectometry, which probes small changes in the electrical impedance of a device, providesa useful method for sensitive and fast detection of dynamic processes in quantum systems. Here, we use thismethod to detect excitation of the quantized motional (Rydberg) states of trapped electrons on liquid helium.The Rydberg transition in an ensemble of electrons is detected by a change in the impedance of an rf circuit inresponse to a pulsed-modulated microwave excitation. The result is compared with an independent impedancemeasurement on the same electron system modulated by an electrostatic potential and with a numerical simulation using the Green’s function method. Additionally, it is found that the rf response to the Rydbergresonance can be strongly enhanced by the resonant modes of the electron collective motion. Our results suggest that the observed response to the Rydberg resonance must be attributed to the lateral motion of microwave-excited electrons rather than the quantum capacitance associated with their vertical displacement, as was reported earlier. Our theoretical analysis based on the solution of the master equation shows that the quantum capacitance would show a response which is drastically different from what is observed in the experiments.
